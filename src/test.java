@@ -1,5 +1,5 @@
 test2a
 ishidaaaaaaaaaasdadsa
 public static test aaaaa(){
-    Logger.warn("これはテストです");あ
+    Logger.warn("これはテストです");あ　　　い
 }
