@@ -1,0 +1,10 @@
+test2a
+ishidaaaaaaaaaasdadsa
+<<<<<<< HEAD
+public static test aaaaa
+	----------------------------------------------------------------------------------------------
+=======
+public static test aaaaa(){
+    Logger.info("test");
+}
+>>>>>>> dd448b6b14cac456c4d3eb48d826ef7dc799a08a
