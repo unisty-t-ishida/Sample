@@ -1,4 +1,4 @@
-test2a11１２３４５６７
+test2a11１２３４５６７awefawefaew
 ishidaaaaaaaaaasdadsa
 public static test aaaaa(){
 <<<<<<< HEAD
