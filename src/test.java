@@ -1,4 +1,4 @@
-test2a11１２３４５６７お；ｓｈがれ
+test2a11１２３４５６７お；ｓｈがれ。ぺｗとてｗ
 ishidaaaaaaaaaasdadsa
 public static test aaaaa(){
 <<<<<<< HEAD
